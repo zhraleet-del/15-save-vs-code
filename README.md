@@ -1,2 +1,2 @@
-# 15-save-vs-code
+# html-css-code
 how to save ur code in vs code eaisly
